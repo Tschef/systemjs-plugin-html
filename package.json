@@ -32,7 +32,7 @@
   },
   "scripts": {
     "test": "karma start",
-    "test:bundle": "rm -rf temp && jspm bundle test/import-two-elements/main.js temp/build.js",
+    "test:bundle": "rm -rf temp && jspm bundle test/import-two-elements/main.js temp/build.js"
   },
   "author": "Jayson Harshbarger",
   "devDependencies": {
